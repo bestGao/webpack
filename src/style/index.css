@@ -1,0 +1,12 @@
+html,body{
+  background-color: navajowhite;
+}
+
+.box2 {
+  width: 200px;
+  height: 200px;
+  background-image: url('../assets/images/img2.jpg');
+  background-size: 100%;
+  backface-visibility: hidden;
+  display: flex;
+}
