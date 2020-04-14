@@ -80,6 +80,7 @@ module.exports = {
     contentBase: resolve(__dirname, 'dist'),
     compress: true,
     port: 2333,
-    open: true
+    open: true,
+    host: '192.168.205.222'
   }
 }
